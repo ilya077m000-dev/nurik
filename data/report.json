@@ -1,0 +1,23 @@
+[
+    {
+        "book_id": 1,
+        "title": "Преступление и наказание",
+        "author": "Ф. Достоевский",
+        "year": 1866,
+        "_is_available": true
+    },
+    {
+        "book_id": 2,
+        "title": "Мастер и Маргарита",
+        "author": "М. Булгаков",
+        "year": 1967,
+        "_is_available": true
+    },
+    {
+        "book_id": 3,
+        "title": "Война и мир",
+        "author": "Л. Толстой",
+        "year": 1869,
+        "_is_available": true
+    }
+]
