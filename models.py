@@ -26,8 +26,8 @@ class Book:
     _is_available: bool = True
 
     @property
-    def is_available(self) -> bool:
-        return self._is_available
+    def is_available(self) -> bool:   #позволяет получать статус книги 
+      return self._is_available
 
     @is_available.setter
     def is_available(self, status: bool) -> None:
