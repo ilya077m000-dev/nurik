@@ -4,7 +4,6 @@ from dataclasses import dataclass
 from datetime import datetime
 from typing import Optional, Protocol
 
-
 class Summarizable(Protocol):
     """Протокол для демонстрации полиморфизма."""
     def get_summary(self) -> str:
